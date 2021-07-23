@@ -1,0 +1,104 @@
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+  y="0px" viewBox="0 0 422.7 519.5" style="enable-background:new 0 0 422.7 519.5;" xml:space="preserve">
+  <style type="text/css">
+    .st0 {
+      opacity: 0.1;
+      fill: none;
+      stroke: #FFFFFF;
+      enable-background: new;
+    }
+  
+    .st1 {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-width: 7;
+      stroke-dasharray: 155, 237;
+    }
+  
+    .st2 {
+      opacity: 0.1;
+      fill: none;
+      stroke: #FF8800;
+      enable-background: new;
+    }
+  
+    .st3 {
+      fill: none;
+      stroke: #FF8800;
+      stroke-width: 7;
+      stroke-dasharray: 155, 237;
+    }
+  </style>
+  <style>
+    /********Удали эти стили, это просто... короче удали***********/
+    body {
+      background-color: black;
+    }
+    svg {
+      width: 20%;
+    }
+    /********Эти не надо трогать***********/
+    #whiteLine {
+      -webkit-animation: moveD 5.7s ease-in forwards;
+              animation: moveD 5.7s ease-in forwards; 
+    }
+    #pomLine {
+      -webkit-animation: moveR 5.7s ease-in forwards;
+              animation: moveR 5.7s ease-in forwards; 
+    }
+    @-webkit-keyframes moveD {
+      0% {
+        stroke-dashoffset: 30;
+        stroke-dasharray: 110, 180;
+      }
+      100% {
+        stroke-dashoffset: 0;
+        stroke-dasharray: 1100, 700;
+      }
+    }
+    @keyframes moveD {
+      0% {
+        stroke-dashoffset: 30;
+        stroke-dasharray: 110, 180;
+      }
+      100% {
+        stroke-dashoffset: 0;
+        stroke-dasharray: 1100, 700;
+      }
+    }
+    @-webkit-keyframes moveR {
+      0% {
+        stroke-dashoffset: 30;
+        stroke-dasharray: 110, 180;
+      }
+      100% {
+        stroke-dashoffset: 0;
+        stroke-dasharray: 1400, 600;
+      }
+    }
+    @keyframes moveR {
+      0% {
+        stroke-dashoffset: 30;
+        stroke-dasharray: 110, 180;
+      }
+      100% {
+        stroke-dashoffset: 0;
+        stroke-dasharray: 1400, 600;
+      }
+    }
+  </style>
+  <g>
+    <path id="lineD" class="st0" d="M420.1,356.9c0,92.7-68.1,159.1-163.9,159.1H127.6V198.4h128.5
+      C352.3,198.4,420.1,264.1,420.1,356.9 M330.4,356.9c0-47.1-31.3-78.4-78.4-78.4h-36.5v157.3H252
+      C299.1,435.8,330.4,403.8,330.4,356.9" />
+    <path id="whiteLine" class="st1" d="M419.2,356.9c0,92.7-68.1,159.1-163.9,159.1H126.8V198.4h128.5
+      C351.4,198.4,419.2,264.1,419.2,356.9 M329.5,356.9c0-47.1-31.3-78.4-78.4-78.4h-36.5v157.3h36.5
+      C298.2,435.8,329.5,403.8,329.5,356.9" />
+    <path id="lineR" class="st2" d="M158.7,259.9H127v97.2H39.5V39.5h137.6c68.4,0,118.1,46,118.1,112.4c0.7,36.8-18.6,71.1-50.4,89.7
+      l63,115.5h-97.6L158.7,259.9z M127,186.2h40c24.5,0,38.5-14.7,38.5-34.6s-14.1-34.4-38.5-34.4h-40V186.2z" />
+    <path id="pomLine" class="st3" d="M158.7,259.9H127v97.2H39.5V39.5h137.6c68.4,0,118.1,46,118.1,112.4
+      c0.7,36.8-18.6,71.1-50.4,89.7l63,115.5h-97.6L158.7,259.9z M127,186.2h40c24.5,0,38.5-14.7,38.5-34.6s-14.1-34.4-38.5-34.4h-40
+      V186.2z" />
+  </g>
+</svg>
+

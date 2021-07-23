@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="45" viewBox="0 0 38 45">
+    <defs>
+        <filter id="vn35zfolpa" width="38" height="45" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g filter="url(#vn35zfolpa)">
+        <path fill="#fff" d="M10 0A10.05 10.05 0 0 0 0 10.125C0 16.875 10 27 10 27s10-10.125 10-16.875A10.05 10.05 0 0 0 10 0zm0 3.375a6.707 6.707 0 0 1 6.667 6.75A6.667 6.667 0 1 1 10 3.375z" transform="translate(9 4)"/>
+    </g>
+</svg>

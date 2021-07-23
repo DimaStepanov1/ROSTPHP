@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900.22" height="1096.872" viewBox="0 0 1900.22 1096.872">
+    <defs>
+        <filter id="Прямоугольник_34" width="105" height="105" x="253.267" y="164.87" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Прямоугольник_35" width="97" height="97" x="473.464" y="647.068" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-2" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Прямоугольник_36" width="85" height="85" x="1294.562" y="902.267" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-3" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Прямоугольник_37" width="97" height="97" x="1321.511" y="327.037" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-4" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_208" width="125" height="125" x="71.396" y="745.697" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-5" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_215" width="75" height="75" x="691.361" y="61" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-6" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-6" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_216" width="105" height="105" x="1535.03" y="589.213" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-7" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur-7" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_217" width="115" height="115" x="1573.097" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-8" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur-8" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_207" width="93.986" height="93.986" x="257.921" y="548.36" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-9" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-9" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_218" width="87" height="87" x="0" y="10.38" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-10" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-10" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_219" width="97.44" height="97.44" x="1802.78" y="898.047" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-11" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-11" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_220" width="94.151" height="94.151" x="1079.424" y="107.805" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-12" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur-12" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Объединение_2" width="85.001" height="85.001" x="344.986" y="980.922" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-13" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur-13" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Объединение_1" width="75" height="75" x="547.533" y="378.627" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-14" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-14" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Объединение_3" width="75" height="75" x="1691.861" y="169.647" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-15" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-15" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Объединение_4" width="75" height="75" x="1231.562" y="641.739" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-16" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-16" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_209" width="85" height="75.045" x="1739.51" y="435.519" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-17" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-17" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_221" width="137.689" height="137.321" x="1486.312" y="959.551" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-18" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-18" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_222" width="148.482" height="147.745" x="593.467" y="768.064" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-19" stdDeviation="10"/>
+            <feFlood flood-color="#fff"/>
+            <feComposite in2="blur-19" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_223" width="88.738" height="87.756" x="138.519" y="353.93" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-20" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur-20" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-1,.cls-6{fill:transparent}.cls-1,.cls-3,.cls-5,.cls-8{stroke:#fff}.cls-1,.cls-2,.cls-3,.cls-5,.cls-6,.cls-8{stroke-linecap:round;stroke-linejoin:round;stroke-width:5px}.cls-1,.cls-6{opacity:.8}.cls-2,.cls-3,.cls-5,.cls-8{fill:none}.cls-2,.cls-6{stroke:#f80}.cls-2,.cls-3{opacity:.7}.cls-5{opacity:.5}
+        </style>
+    </defs>
+    <g id="Сгруппировать_86">
+        <g filter="url(#Прямоугольник_34)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Прямоугольник_34-2" d="M0 0H10V10H0z" class="cls-1" transform="translate(300.77 212.37)"/>
+        </g>
+        <g filter="url(#Прямоугольник_35)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Прямоугольник_35-2" d="M0 0H20V20H0z" class="cls-2" transform="translate(511.96 685.57)"/>
+        </g>
+        <g filter="url(#Прямоугольник_36)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Прямоугольник_36-2" d="M0 0H20V20H0z" class="cls-2" transform="translate(1327.06 934.77)"/>
+        </g>
+        <g filter="url(#Прямоугольник_37)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Прямоугольник_37-2" d="M0 0H20V20H0z" class="cls-3" transform="translate(1360.01 365.54)"/>
+        </g>
+        <g filter="url(#Контур_208)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_208-2" fill="rgba(0,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" d="M298.736 102.732a15 15 0 1 1-15-15 15 15 0 0 1 15 15z" transform="translate(-149.84 705.47)"/>
+        </g>
+        <g filter="url(#Контур_215)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_215-2" d="M278.736 92.732a5 5 0 1 1-5-5 5 5 0 0 1 5 5z" class="cls-5" transform="translate(455.12 5.77)"/>
+        </g>
+        <g filter="url(#Контур_216)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_216-2" d="M278.736 92.732a5 5 0 1 1-5-5 5 5 0 0 1 5 5z" class="cls-6" transform="translate(1313.79 548.98)"/>
+        </g>
+        <g filter="url(#Контур_217)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_217-2" d="M288.736 97.732a10 10 0 1 1-10-10 10 10 0 0 1 10 10z" class="cls-6" transform="translate(1351.86 -40.23)"/>
+        </g>
+        <g filter="url(#Контур_207)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_207-2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" d="M17.326 10L20 0 10 2.688 0 5.373l7.327 7.311L14.653 20z" opacity="0.8" transform="matrix(.48 .87 -.87 .48 308.81 581.76)"/>
+        </g>
+        <g filter="url(#Контур_218)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_218-2" d="M129 68.113l1.337-5-5 1.344-5 1.343L124 69.454l3.663 3.658z" class="cls-8" transform="translate(-81.84 -14.23)"/>
+        </g>
+        <g filter="url(#Контур_219)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_219-2" d="M8.663 5L10 0 5 1.344 0 2.687l3.664 3.655L7.327 10z" class="cls-8" transform="rotate(107 579.812 1159.053)"/>
+        </g>
+        <g filter="url(#Контур_220)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_220-2" fill="none" stroke="#f80" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" d="M17.326 10L20 0 10 2.688 0 5.373l7.327 7.311L14.653 20z" opacity="0.5" transform="rotate(30 297.9 2165.858)"/>
+        </g>
+        <g filter="url(#Объединение_2)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Объединение_2-2" d="M10 10L0 .669 10 10l9.327-10L10 10l10 9.327L10 10 .67 20z" class="cls-2" transform="translate(377.49 1013.42)"/>
+        </g>
+        <g filter="url(#Объединение_1)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Объединение_1-2" d="M5 5L0 .5 5 5l4.5-5L5 5l5 4.495L5 5 .5 10z" class="cls-3" transform="translate(580.03 411.13)"/>
+        </g>
+        <g filter="url(#Объединение_3)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Объединение_3-2" d="M5 5L0 .5 5 5l4.5-5L5 5l5 4.495L5 5 .5 10z" class="cls-8" transform="translate(1724.36 202.15)"/>
+        </g>
+        <g filter="url(#Объединение_4)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Объединение_4-2" d="M5 5L0 .334 5 5l4.664-5L5 5l5 4.663L5 5 .335 10z" class="cls-5" transform="translate(1264.06 674.24)"/>
+        </g>
+        <g filter="url(#Контур_209)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_209-2" d="M58.85 170.026a10 10 0 1 1 20 0" class="cls-8" transform="translate(1713.16 308.04)"/>
+        </g>
+        <g filter="url(#Контур_221)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_221-2" d="M0 5.023a5 5 0 1 1 10 0" class="cls-1" transform="rotate(138 583.213 812.885)"/>
+        </g>
+        <g filter="url(#Контур_222)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_222-2" fill="rgba(0,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" d="M0 10.045a10 10 0 1 1 20 0" opacity="0.5" transform="rotate(138 178.223 549.716)"/>
+        </g>
+        <g filter="url(#Контур_223)" transform="translate(-11.5 26.808) translate(11.5 -26.81)">
+            <path id="Контур_223-2" fill="none" stroke="#f80" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" d="M0 10.045a10 10 0 1 1 20 0" opacity="0.8" transform="rotate(-139 169.872 169.096)"/>
+        </g>
+    </g>
+</svg>

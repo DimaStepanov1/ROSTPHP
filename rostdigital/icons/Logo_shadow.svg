@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880.601" height="1028.611" viewBox="0 0 880.601 1028.611">
+    <defs>
+        <filter id="Контур_314" width="746.097" height="784.647" x="134.504" y="243.964" filterUnits="userSpaceOnUse">
+            <feOffset dx="100" dy="21"/>
+            <feGaussianBlur result="blur" stdDeviation="49.5"/>
+            <feFlood/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Контур_315" width="708.953" height="784.647" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dx="100" dy="21"/>
+            <feGaussianBlur result="blur-2" stdDeviation="49.5"/>
+            <feFlood/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-2{fill:#141414}
+        </style>
+    </defs>
+    <g id="Logo_shadow" opacity="0.45">
+        <g filter="url(#Контур_314)" transform="translate(-1111.899 -3244.5) translate(1111.9 3244.5)">
+            <path id="Контур_314-2" d="M-99.1-179.2c0 142.383-104.4 244.246-251.843 244.246H-548.2V-422.6h197.254C-203.217-422.6-99.1-321.581-99.1-179.2zm-137.6 0c0-72.317-48.117-120.434-120.435-120.434h-56V-57.92h56c72.035 0 120.435-49.243 120.435-121.28z" class="cls-2" transform="translate(731.2 794.06)"/>
+        </g>
+        <g filter="url(#Контур_315)" transform="translate(-1111.899 -3244.5) translate(1111.9 3244.5)">
+            <path id="Контур_315-2" d="M-412.816-170.789H-461.5v149.136H-596V-509.3h211.323c105.239 0 181.214 70.629 181.214 172.491 0 59.936-29.264 108.9-77.382 137.6l96.8 177.275h-149.98zM-461.5-283.908h61.343c37.706 0 59.092-22.511 59.092-53.182 0-30.39-21.667-52.9-59.092-52.9H-461.5z" class="cls-2" transform="translate(644.5 636.8)"/>
+        </g>
+    </g>
+</svg>

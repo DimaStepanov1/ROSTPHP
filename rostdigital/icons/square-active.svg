@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+    <defs>
+        <filter id="f1jaslyowa" width="31" height="31" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-color="#ff8800"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g filter="url(#f1jaslyowa)">
+        <path fill="none" stroke="#ff8800" stroke-linecap="round" stroke-linejoin="round" stroke-width="3px" d="M0 0h10v10H0z" transform="translate(10.5 10.5)"/>
+    </g>
+</svg>

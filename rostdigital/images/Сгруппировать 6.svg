@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422.744" height="519.487" viewBox="0 0 422.744 519.487">
+    <defs>
+        <filter id="f079809hsa" width="349.779" height="396.562" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="10"/>
+            <feFlood flood-color="#f80"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <path fill="none" stroke="#fff" d="M360.557 1361.282c0 92.67-68.061 159.059-163.941 159.059H68.075v-317.582h128.514c96.154 0 163.94 65.727 163.94 158.523m-89.7 0c0-47.11-31.344-78.4-78.363-78.4h-36.508V1440.2h36.534c47.019 0 78.363-32.07 78.363-78.92" opacity="0.1" transform="translate(-705.476 -225.2) translate(765.044 -779.154)"/>
+        <path fill="none" stroke="#fff" stroke-dasharray="155 237" stroke-width="7px" d="M360.557 1361.282c0 92.67-68.061 159.059-163.941 159.059H68.075v-317.582h128.514c96.154 0 163.94 65.727 163.94 158.523m-89.7 0c0-47.11-31.344-78.4-78.363-78.4h-36.508V1440.2h36.534c47.019 0 78.363-32.07 78.363-78.92" transform="translate(-705.476 -225.2) translate(764.163 -779.154)"/>
+        <path fill="none" stroke="#f80" d="M174.875 1400.623h-31.732v97.162H55.669v-317.562h137.645c68.449 0 118.085 46.011 118.085 112.379A101.7 101.7 0 0 1 261 1382.3l63.048 115.489H226.4zm-31.732-73.709H183.1c24.476 0 38.544-14.716 38.544-34.552s-14.1-34.382-38.544-34.382h-39.95z" opacity="0.1" transform="translate(-705.476 -225.2) translate(689.307 -915.523)"/>
+        <g filter="url(#f079809hsa)" transform="translate(-705.476 -225.2) translate(705.48 225.2)">
+            <path fill="none" stroke="#f80" stroke-dasharray="155 237" stroke-width="7px" d="M174.875 1400.623h-31.732v97.162H55.669v-317.562h137.645c68.449 0 118.085 46.011 118.085 112.379A101.7 101.7 0 0 1 261 1382.3l63.048 115.489H226.4zm-31.732-73.709H183.1c24.476 0 38.544-14.716 38.544-34.552s-14.1-34.382-38.544-34.382h-39.95z" transform="translate(-16.17 -1140.72)"/>
+        </g>
+    </g>
+</svg>
